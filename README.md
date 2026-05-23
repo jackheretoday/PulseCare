@@ -13,3 +13,6 @@ flutter run
 
 ## Contributing
 We welcome pull requests. Please read the contribution guidelines.
+
+## License
+MIT License
