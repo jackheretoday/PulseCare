@@ -10,3 +10,6 @@ A modern healthcare mobile application.
 flutter pub get
 flutter run
 ```
+
+## Contributing
+We welcome pull requests. Please read the contribution guidelines.
